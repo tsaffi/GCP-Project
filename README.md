@@ -114,10 +114,10 @@ Module: Introduction to Containers and Docker
 
 ### Translations 
 
-- [x] [Getting Started with App Engine](https://github.com/tsaffi/GCP-Project/translations/blob/master/AppEngine.md)
+- [x] [Getting Started with App Engine](https://github.com/tsaffi/GCP-Project/blob/master/translations/AppEngine.md)
 
-- [x] [Setting-up-a-Development-Environment-v1-1](https://github.com/tsaffi/GCP-Project/translations/blob/master/Setting-up-a-Development-Environment-v1-1.md)
+- [x] [Setting-up-a-Development-Environment-v1-1](https://github.com/tsaffi/GCP-Project/blob/master/translations/Setting-up-a-Development-Environment-v1-1.md)
 
-- [x] [Getting Started with Compute Engine](https://github.com/tsaffi/GCP-Project/translations/blob/master/Getting-Started-with-Compute-Engine.md)
+- [x] [Getting Started with Compute Engine](https://github.com/tsaffi/GCP-Project/blob/master/translations/Getting-Started-with-Compute-Engine.md)
 
 
