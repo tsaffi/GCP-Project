@@ -22,7 +22,7 @@ List of completed hands-on labs on Qwiklabs
 <details>
  Module: Virtual Machines in the Cloud
  <summary> Lab 2 - GCP Fundamentals: Getting Started with Compute Engine</summary>
- <img src="screenshots/GCP-Fundamentals:-Getting-Started-with-Compute-Engine.png">
+ <img src="screenshots/Google-Cloud-Fundamentals:-Getting-Started-with-Compute-Engine.png">
 </details>
 
 <details>
